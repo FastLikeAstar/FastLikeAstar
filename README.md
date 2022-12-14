@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FastLikeAstar
-- 👀 I’m interested in ... becoming a web developer.
-- 🌱 I’m currently learning ... React.
+- 👀 I’m interested in ... becoming a software engineer.
+- 🌱 I’m currently learning ... Android Development.
 - 💞️ I’m looking to collaborate on ... projects with emphasis on empowering visual artists.
 - 📫 How to reach me ... FastLikeAstar@gmail.com 
 
