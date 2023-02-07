@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FastLikeAstar
-- 👀 I’m interested in ... becoming a software engineer.
-- 🌱 I’m currently learning ... Java Application Development, using JDBC and the DAO pattern to connect to a MySQL Database.
+- 👀 I’m interested in ... learning more technology and to start contributing to projects.
+- 🌱 I’m currently learning ... Rust and the Bevy game development framework (Rust).
 - 💞️ I’m looking to collaborate on ... projects with emphasis on empowering visual artists.
 - 📫 How to reach me ... FastLikeAstar@gmail.com 
 
