@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FastLikeAstar
-- 👀 I’m interested in ... learning more technology and to start contributing to projects.
-- 🌱 I’m currently learning ... Rust and the Bevy game development framework (Rust).
-- 💞️ I’m looking to collaborate on ... projects with emphasis on empowering visual artists.
+- 👀 I’m interested in ... learning more technology.
+- 🌱 I’m currently learning ... Next.js and diving further into data science.
+- 💞️ I’m looking to collaborate on ... projects that solve problems lol.
 - 📫 How to reach me ... FastLikeAstar@gmail.com 
 
 <!---
